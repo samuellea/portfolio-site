@@ -1,0 +1,41 @@
+.outer {
+  /* background-color: #4E82CB; */
+  height: 100vh;
+  /* padding: 5% 0% 5% 0%; */
+}
+
+.row div {
+  border: 1px solid gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  letter-spacing: 2x;
+  font-weight: 700;
+}
+
+/* a, .navbar-nav .nav-link {
+  color: white;
+  font-size: 30px;
+} */
+
+.picture {
+  /* margin-top: 12.5%; */
+}
+
+/* .user-avatar {
+  width: 50%;
+  height: auto;
+  padding: 20px 10px 10px 10px;
+}
+
+.user-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+} */
